@@ -55,7 +55,8 @@ a:visited{
 #books,
 #book__python,
 #pitch,
-#book__design {
+#book__design,
+#contact {
   margin: 1rem auto;
   max-width: 40%;
   padding: 1.5rem;
@@ -71,7 +72,8 @@ a:visited{
 #books:hover,
 #book__python:hover,
 #pitch:hover,
-#book__design:hover {
+#book__design:hover,
+#contact:hover {
   border: 2px solid #a6a7a8;
 }
 
@@ -124,7 +126,8 @@ footer h2{
     #books,
     #book__python,
     #pitch,
-    #book__design{
+    #book__design,
+    #contact {
         max-width: 85%;
 
     }

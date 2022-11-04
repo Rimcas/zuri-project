@@ -51,6 +51,10 @@ function zuripro1() {
         <a href="https://books.zuri.team/design-rules">Design Books</a>
         </div>
 
+        <div id="contact">
+        <a href="/contact">Contact Me</a>
+        </div>
+
         </main>
         <div>
 
