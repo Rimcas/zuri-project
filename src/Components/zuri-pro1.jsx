@@ -7,6 +7,7 @@ import dp22 from "../assets/Footer.png"
 import dp3 from "../assets/vector.png"
 import dp4 from "../assets/I4G.png"
 import dp5 from "../assets/_Avatar share button.png"
+import { Link } from "react-router-dom"
 
 
 function zuripro1() {
@@ -52,7 +53,7 @@ function zuripro1() {
         </div>
 
         <div id="contact">
-        <a href="/contact">Contact Me</a>
+        <Link to="/contact">Contact Me</Link>
         </div>
 
         </main>
